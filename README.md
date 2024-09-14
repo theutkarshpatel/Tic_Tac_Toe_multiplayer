@@ -1,1 +1,7 @@
-This repo contains code for multiplayer tic tac toe game where i used react , node-js and socketio
+# Tic Tac Toe Multiplayer
+
+- Multiplayer Tic Tac Toe Game 
+- Game logic using html, css , javascript
+- Multiplayer gameplay using shocket.io
+
+
